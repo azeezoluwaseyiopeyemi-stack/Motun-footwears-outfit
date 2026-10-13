@@ -24,3 +24,7 @@ This is the first visual/storefront stage, not a complete live ecommerce system.
 - Online images and fonts require internet access.
 
 We will add the remaining systems step by step after the storefront design is approved.
+
+
+## Logo update
+The supplied Motun’s sign/logo photo has been cropped and added as `motuns-logo.jpg`, and is used in the header, footer, and customer-account placeholder. The storefront is still a starter: sample product catalogue and prices, placeholder account UI, and checkout are not connected to a real database or payment provider.
